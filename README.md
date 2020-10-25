@@ -4,7 +4,7 @@
 
 This is a 6 terminal buzzer system for quiz competitions and has been used by Quanfield Technologies. The following applications are used for the development of this project.
 
-- `AVR Stuidio` - AVR Microcontroller Programming
+- `Atmel Studio` - AVR Microcontroller Programming
 - `Proteus Design Suite` - Designing the schematic and PCB layout
 - `TinkedCad` - Terminal box design
 
