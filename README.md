@@ -2,9 +2,9 @@
 
 # QuizzoBuzz
 
-This is a 6 terminal buzzer system for quiz competitions and has been used by Quanfield Technologies. The following applications are used for the development of this project.
+This is a 6 terminal buzzer system for quiz competitions and has been used by Quanfield Technologies. This project is implemented with an ATmega8A microcontroller. The following applications are used for the development of this project.
 
-- `Atmel Studio` - AVR Microcontroller Programming
+- `Atmel Studio` - AVR microcontroller programming
 - `Proteus Design Suite` - Designing the schematic and PCB layout
 - `TinkedCad` - Terminal box design
 
