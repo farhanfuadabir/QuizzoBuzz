@@ -1,10 +1,13 @@
 <img align="right" src="https://img.shields.io/github/license/farhanfuadabir/QuizzoBuzz" width="80">
 
-
-
 # QuizzoBuzz
 
-This is a 6 terminal buzzer system for quiz competitions and has been used by Quanfield Technologies.
+This is a 6 terminal buzzer system for quiz competitions and has been used by Quanfield Technologies. The following applications are used for the development of this project.
+
+- `AVR Stuidio` - AVR Microcontroller Programming
+- `Proteus Design Suite` - Designing the schematic and PCB layout
+- `TinkedCad` - Terminal box design
+
 
 **Developer:** Farhan Fuad Abir, Md. Ahasan Atick Faisal
 
