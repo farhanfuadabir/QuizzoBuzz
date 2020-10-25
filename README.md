@@ -34,6 +34,6 @@ Control Box PCB Layout:
 
 <p align="center">
   <a href="https://youtu.be/IMMR1gULcXM">
-    <img src="image_3.JPG" width="500"/>
+    <img src="video_thumbnail.JPG" width="450"/>
   </a>
 </p>
