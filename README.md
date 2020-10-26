@@ -22,12 +22,12 @@ Terminals and the control box:
 
 Control Box Schematic:
 <p align="center">
-<img src="https://github.com/farhanfuadabir/QuizzoBuzz/blob/main/image_1.JPG" width="450">
+<img src="https://github.com/farhanfuadabir/QuizzoBuzz/blob/main/schematic.SVG" width="450">
 </p>
 
 Control Box PCB Layout:
 <p align="center">
-<img src="https://github.com/farhanfuadabir/QuizzoBuzz/blob/main/image_1.JPG" width="450">
+<img src="https://github.com/farhanfuadabir/QuizzoBuzz/blob/main/pcb_layout.SVG" width="450">
 </p>
 
 
